@@ -1,5 +1,7 @@
 ## Monkey Tourism Analysis
 
+This repository supports the paper [**"Behavioural Patterns of White-Faced Capuchins Under Ecotourism Pressures"**](https://doi.org/10.3390/d18030169) (*Diversity* 18(3), 169, 2026).
+
 This repository contains an exploratory and statistical analysis of monkey observations in a tourism context, implemented in a Jupyter notebook (`analysis.ipynb`).
 
 ## Environment
